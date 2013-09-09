@@ -10,7 +10,7 @@ Based on [Scrumly](https://github.com/simpleenergy/Scrumly) with interaction and
 
 Getting started is simple, assuming you have a Sprint.ly account: 
 
-1. Clone or download this repo.
+1. Clone this repository recursively (`git clone --recursive git@github.com:andrewliebchen/Grandstand.git`). Without the `--recursive` flag, you won't get the necessary submodule.
 2. Open `config.template.php`, fill in the user, product, and API information.
 3. Save as `config.php`.
 4. Setup the files on a webserver, or run locally with [MAMP](http://www.mamp.info/en/index.html).

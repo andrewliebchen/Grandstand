@@ -4,3 +4,4 @@ config.php
 .buildpath
 .project
 .settings
+tmp/
