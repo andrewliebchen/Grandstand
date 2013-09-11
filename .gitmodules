@@ -1,3 +1,3 @@
 [submodule "libs/Requests"]
 	path = libs/Requests
-	url = git@github.com:rmccue/Requests.git
+	url = https://github.com/rmccue/Requests.git
