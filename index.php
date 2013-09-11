@@ -1,4 +1,4 @@
-<?php require 'config.php'; ?>
+<?php require 'init.php'; ?>
 
 <!DOCTYPE html>
 <html lang="en">
